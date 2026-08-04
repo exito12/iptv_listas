@@ -21,5 +21,12 @@
       "password": "Cintia638",
       "activo": true
     },
+    {
+      "nombre": "moontools.me",
+      "server": "http://moontools.me:8080",
+      "username": "Alejo32star",
+      "password": "b425720d22ff",
+      "activo": true
+    }
   ]
 }
