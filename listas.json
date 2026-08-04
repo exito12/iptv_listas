@@ -22,10 +22,17 @@
       "activo": true
     },
     {
-      "nombre": "moontools.me",
-      "server": "http://moontools.me:8080",
-      "username": "Alejo32star",
-      "password": "YZ2Ua7wFAJnJ",
+      "nombre": "p2premium.club",
+      "server": "http://p2premium.club:80",
+      "username": "G762hnfs4",
+      "password": "3829jdns9",
+      "activo": true
+    },
+    {
+      "nombre": "liontv.es",
+      "server": "http://liontv.es:8080",
+      "username": "Daniel1234",
+      "password": "Daniel4321",
       "activo": true
     }
   ]
